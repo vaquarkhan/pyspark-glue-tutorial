@@ -250,7 +250,8 @@ Below are the schemas for the tables created in the Glue Data Catalog by the clo
 - Inner join for Spark Dataframe All Data
     ```
     # Inner Join Customers Spark DF to Orders Spark DF
-    sparkDf.join(dfOrders,sparkDf.customerid ==  dfOrders.customerid,"inner").show(truncate=False)
+    dfOrdersDF=dfOrders.toDF()
+    sparkDf.join(dfOrdersDF,sparkDf.customerid ==  dfOrdersDF.customerid,"inner").show(truncate=False)
     ```
 - Inner Join Adams only 
     ```
