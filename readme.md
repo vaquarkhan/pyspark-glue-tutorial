@@ -242,6 +242,7 @@ Below are the schemas for the tables created in the Glue Data Catalog by the clo
 - read up orders dataset and convert to spark dataframe
     ```
     # Read from the ccustomers table in the glue data catalog using a dynamic frame and convert to spark dataframe
+    dfOrders=dfOrders.toDF()
     dfOrders = glueContext.create_dynamic_frame.from_catalog(
                                             database = "pyspark_tutorial_db", 
                                             table_name = "orders"
