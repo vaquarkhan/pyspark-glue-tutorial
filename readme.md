@@ -305,9 +305,7 @@ Below are the schemas for the tables created in the Glue Data Catalog by the clo
 
 ## Creators
 
-**Johnny Chivers**
 
-- <https://github.com/johnny-chivers/>
 
 ## Useful Links
 
