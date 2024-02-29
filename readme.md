@@ -318,4 +318,27 @@ Below are the schemas for the tables created in the Glue Data Catalog by the clo
 Few good resouse to learn Glue :
 - https://www.youtube.com/watch?v=NuGqN3Aj07M&list=PL7bE4nSzLSWfYAc3q1vEYFi145Mt_DLcF
 - https://www.youtube.com/playlist?list=PLL2hlSFBmWwyHxy3rH2lltZxPeOUMYQEq
+- https://www.youtube.com/watch?v=Z3jV3o7NyC8
+- https://www.youtube.com/watch?v=G6d6-abiQno
+- https://www.youtube.com/watch?v=aEIarW3Ml4c
+- https://www.youtube.com/watch?v=4AvBv-Rxrv4
+- https://www.youtube.com/watch?v=UBhG_UMuFEo
+- https://www.youtube.com/watch?v=8_F5nrVjOII
+- https://www.youtube.com/watch?v=44PbyHE57aM
+- https://www.youtube.com/watch?v=aRDewRsoWVQ
+- https://www.youtube.com/watch?v=OBOoIDFLUpM
+- https://www.youtube.com/watch?v=UhBCpNmM2CE
+- https://www.youtube.com/watch?v=JoB6uarC0SE
+
+- https://www.youtube.com/watch?v=XdkxI6Xs9RA
+- https://www.youtube.com/watch?v=04BbCLDlvII
+- https://www.youtube.com/watch?v=_0uztUlVS-4
+- https://www.youtube.com/watch?v=OqfspqIMbFY
+- https://www.youtube.com/watch?v=n4PVC5O_tJo
 - 
+Optimization:
+- https://www.youtube.com/watch?v=l-G3tYjpQK8
+- https://www.youtube.com/watch?v=aRDewRsoWVQ
+- https://www.youtube.com/watch?v=ZOUOhFx0Wc4
+- https://www.youtube.com/watch?v=VTUGYBDjsoA
+
