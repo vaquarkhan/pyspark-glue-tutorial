@@ -315,5 +315,7 @@ Below are the schemas for the tables created in the Glue Data Catalog by the clo
 - [website](https://www.johnnychivers.co.uk)
 - [buy me a coffee](https://www.buymeacoffee.com/johnnychivers)
 
-
-Enjoy :metal:
+Few good resouse to learn Glue :
+- https://www.youtube.com/watch?v=NuGqN3Aj07M&list=PL7bE4nSzLSWfYAc3q1vEYFi145Mt_DLcF
+- https://www.youtube.com/playlist?list=PLL2hlSFBmWwyHxy3rH2lltZxPeOUMYQEq
+- 
